@@ -2256,7 +2256,7 @@ Exemple d'expression régulière avec un sous-schéma appelé 'id' :<br />
   <phrase title="new_permission" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Nouvelle permission]]></phrase>
   <phrase title="new_permission_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Nouveau groupe de permissions]]></phrase>
   <phrase title="new_posts" addon_id="XenForo" version_id="1020270" version_string="1.2.2"><![CDATA[Nouveaux messages]]></phrase>
-  <phrase title="new_profile_posts" addon_id="XenForo" global_cache="1" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Nouveux messages de profil]]></phrase>
+  <phrase title="new_profile_posts" addon_id="XenForo" global_cache="1" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Nouveaux messages de profil]]></phrase>
   <phrase title="new_registrations_currently_not_being_accepted" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Les inscriptions sont actuellement fermées.]]></phrase>
   <phrase title="new_reply_ban" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[+ Interdiction de discussion]]></phrase>
   <phrase title="new_thread" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Nouvelle discussion]]></phrase>
