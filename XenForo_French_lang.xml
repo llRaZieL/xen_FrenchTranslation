@@ -5684,7 +5684,7 @@ Pour désactiver l'ensemble des envois d'emails :
   <phrase title="year" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Année]]></phrase>
   <phrase title="years" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Années]]></phrase>
   <phrase title="yes" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Oui]]></phrase>
-  <phrase title="yes_my_password_is" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Oui, mon mot de passe est]]></phrase>
+  <phrase title="yes_my_password_is" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Oui, mon mot de passe est ]]></phrase>
   <phrase title="yes_with_email" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Oui, par e-mail]]></phrase>
   <phrase title="yesterday" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Hier]]></phrase>
   <phrase title="yesterday_at_x" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Hier à {time}]]></phrase>
