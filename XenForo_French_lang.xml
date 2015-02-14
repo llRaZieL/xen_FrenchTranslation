@@ -265,7 +265,7 @@
   <phrase title="align_left" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Aligner à gauche]]></phrase>
   <phrase title="align_right" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Aligner à droite]]></phrase>
   <phrase title="alignment" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Alignement]]></phrase>
-  <phrase title="all" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[<span style="font-size:10px">Tous</span> ]]></phrase>
+  <phrase title="all" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Tous ]]></phrase>
   <phrase title="all_content_types" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Tous les types de contenu]]></phrase>
   <phrase title="all_forums" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Tous les forums]]></phrase>
   <phrase title="all_forums_marked_as_read" addon_id="XenForo" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[Tous les forums marqués comme lus.]]></phrase>
@@ -439,7 +439,7 @@ Le voici en [I]italique[/I].
 Ou bien [U]souligné[/U].
 Exemple de texte [S]barré[/S] pour finir.]]></phrase>
   <phrase title="bb_code_help_b_i_u_s_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[B], [I], [U], [S] - Gras, italique, souligné, et barré]]></phrase>
-  <phrase title="bb_code_help_code_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Formatage du texte par sa mise en surbrillance selon la langue de programmation utilisé (PHP, HTML, JAVASCRIPT, C++, etc.).]]></phrase>
+  <phrase title="bb_code_help_code_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Formatage du texte selon le language de programmation utilisé (PHP, HTML, etc.).]]></phrase>
   <phrase title="bb_code_help_code_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[CODE]Code générique[/CODE]
 [PHP]echo $hello . 'world';[/PHP]]]></phrase>
   <phrase title="bb_code_help_code_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[CODE], [PHP], [HTML] - Affichage du code de programmation]]></phrase>
@@ -473,7 +473,7 @@ Ainsi qu'un texte [SIZE=1]petit[/SIZE] et [SIZE=7]grand[/SIZE].]]></phrase>
   <phrase title="bb_code_help_plain_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[PLAIN] - Texte plein]]></phrase>
   <phrase title="bb_code_help_quote_desc" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Affiche un texte cité par une autre source. Vous pouvez également citer le nom de cette source et lui attribuer la paternité du propos.]]></phrase>
   <phrase title="bb_code_help_quote_example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[QUOTE]Texte cité[/QUOTE]
-[QUOTE=A person]Quelqu'un a dit[/QUOTE]]]></phrase>
+[QUOTE=Quelqu'un]Quelqu'un a dit[/QUOTE]]]></phrase>
   <phrase title="bb_code_help_quote_title" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[[QUOTE] - Texte cité]]></phrase>
   <phrase title="bb_code_help_spoiler_desc" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Masquer un texte qui pourrait contenir un spoileur de sorte que l'utilisateur doive cliquer dessus pour le révéler.]]></phrase>
   <phrase title="bb_code_help_spoiler_example" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[[SPOILER]Spoileur[/SPOILER]
@@ -1369,7 +1369,7 @@ La fonction pourra donc s'écrire ainsi (ceci est un exemple) : <br />
   <phrase title="event_hint" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Mot clef d'événement]]></phrase>
   <phrase title="event_id" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[ID de l'événement ]]></phrase>
   <phrase title="everyone" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Tout le monde]]></phrase>
-  <phrase title="example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Exemple]]></phrase>
+  <phrase title="example" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Exemple ]]></phrase>
   <phrase title="example_usage" addon_id="XenForo" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Exemple d'utilisation]]></phrase>
   <phrase title="execute_callback" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Exécuter le callback ]]></phrase>
   <phrase title="execution_order" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Ordre d'exécution]]></phrase>
@@ -2859,7 +2859,7 @@ Vous pouvez passer un de vos membres en mode 'découragé' en éditant son profi
   <phrase title="outdated_phrases" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Expressions obsolètes]]></phrase>
   <phrase title="outdated_templates" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Templates obsolètes]]></phrase>
   <phrase title="outdent" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Retrait négatif]]></phrase>
-  <phrase title="output" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Sortie]]></phrase>
+  <phrase title="output" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Résultat ]]></phrase>
   <phrase title="outset" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Outset]]></phrase>
   <phrase title="overline" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Surligné]]></phrase>
   <phrase title="override_user_style_choice" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Passer outre le choix du style par les utilisateurs]]></phrase>
