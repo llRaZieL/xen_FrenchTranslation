@@ -3403,7 +3403,7 @@ Notez que les changements de compte tels que le bannissement n'auront aucun impa
   <phrase title="rebuild_xml_sitemap" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Reconstruire la carte XML du site]]></phrase>
   <phrase title="rebuilding" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Reconstruction]]></phrase>
   <phrase title="rebuilding_caches" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Reconstruction des caches]]></phrase>
-  <phrase title="recaptcha_enter_both_words" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Entrez les 2 mots affichés dans le cadre ci-dessus.]]></phrase>
+  <phrase title="recaptcha_enter_both_words" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Entrez les caractères affichés dans le cadre ci-dessus ]]></phrase>
   <phrase title="recaptcha_reload_go_back_to_text" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[<a {reload_params}>Recharger</a> ou <a {switch_params}>Retour au texte</a>. Par reCAPTCHA&trade;.]]></phrase>
   <phrase title="recaptcha_reload_listen_to_audio" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[<a {reload_params} >Recharger</a> ou <a {switch_params}>écouter oralement</a>. Par reCAPTCHA&trade;]]></phrase>
   <phrase title="recaptcha_verification_is_loading" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[La vérification ReCAPTCHA est en cours de chargement. Veuillez rafraîchir la page si elle n'apparaît pas.]]></phrase>
