@@ -1472,7 +1472,7 @@ La fonction pourra donc s'écrire ainsi (ceci est un exemple) : <br />
   <phrase title="followed_members_only" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Membres suivis uniquement]]></phrase>
   <phrase title="followers" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Abonnés]]></phrase>
   <phrase title="following" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Qui suivez vous ?]]></phrase>
-  <phrase title="following_error_occurred" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[L'erreur suivante est apparue :]]></phrase>
+  <phrase title="following_error_occurred" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[L'erreur suivante est apparue ]]></phrase>
   <phrase title="following_members_not_found_x" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Les membres suivants n'ont pas pu être trouvés : {members}.]]></phrase>
   <phrase title="following_placeholders_will_be_replaced_in_message_for_email" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Variables de remplacement disponibles :  {name}, {email}, {id}.]]></phrase>
   <phrase title="following_sub_options_unknown_x" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Les sous-options suivantes sont inconnues : {subOptions}.]]></phrase>
