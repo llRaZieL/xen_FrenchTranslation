@@ -4785,7 +4785,13 @@ width: 960px; margin: auto;]]></phrase>
 
 <p>Ce site comporte des informations mises à disposition par des sociétés externes ou des liens hypertextes vers d'autres sites auxquels nous sommes étrangers. Ces contenus sont fournis à titre informatif. L'existence d'un lien vers un autre site ne constitue pas une validation de ce site ou de son contenu. Il appartient à l'internaute d'utiliser ces informations avec discernement et esprit critique. Notre responsabilité ne saurait être engagée du fait des informations, opinions et recommandations formulées par des tiers sur d'autres sites.</p>
 
-<p>L'utilisateur reconnaît ne pas utiliser ce service pour envoyer (1) des messages diffamants, injurieux, racistes, haineux ou menaçant, (2) des spams ou publicités déguisées, (3) des textes, photographies et fichiers protégés par le droit d'auteur, (4) ainsi que toute autre forme de contenu répréhensible aux yeux de la loi.</p>
+<p>L'utilisateur reconnaît ne pas utiliser ce service pour envoyer </p>
+<ol>
+	<li>des messages diffamants, injurieux, racistes, haineux ou menaçant,</li>
+	<li>des spams ou publicités déguisées,</li>
+	<li>des textes, photographies et fichiers protégés par le droit d'auteur,</li>
+	<li>ainsi que toute autre forme de contenu répréhensible aux yeux de la loi.</li>
+</ol>
 
 <p>Nous nous réservons le droit de supprimer ou modifier tout message, pour quelque raison que ce soit.</p>
 
