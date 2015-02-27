@@ -505,7 +505,7 @@ Ainsi qu'un texte [SIZE=1]petit[/SIZE] et [SIZE=7]grand[/SIZE].]]></phrase>
   <phrase title="bold" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Gras]]></phrase>
   <phrase title="bold_ctrl_b" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Gras (Ctrl+B)]]></phrase>
   <phrase title="boolean" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Booléen]]></phrase>
-  <phrase title="border" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[<a href="http://css.mammouthland.net/border-css.php" target="_blank">Bords</a>]]></phrase>
+  <phrase title="border" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bordures]]></phrase>
   <phrase title="bottom" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[<span style="font-size:10px">Bas</span> ]]></phrase>
   <phrase title="bounce" addon_id="XenForo" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[E-mail retournés]]></phrase>
   <phrase title="breadcrumb_tag_must_be_within_navigation_tag" addon_id="XenForo" version_id="0" version_string=""><![CDATA[La balise XEN du fil d'ariane doit être incluse à l'intérieur de la balise XEN de navigation.]]></phrase>
