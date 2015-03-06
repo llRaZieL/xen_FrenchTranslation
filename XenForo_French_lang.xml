@@ -3725,6 +3725,7 @@ Contenu faisant objet du rapport :
   <phrase title="secondary_user_groups" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Groupes secondaires de l'utilisateur ]]></phrase>
   <phrase title="secret_key" addon_id="XenForo" version_id="1040470" version_string="1.4.4"><![CDATA[Clef secrète]]></phrase>
   <phrase title="security_error_occurred" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Une erreur de sécurité est survenue. Veuillez appuyer sur retour, rafraîchir la page et recommencer.]]></phrase>
+  <phrase title="security_error_occurred_ajax" addon_id="XenForo" version_id="1040570" version_string="1.4.5"><![CDATA[Une erreur de sécurité est survenue. Veuillez rafraîchir la page et recommencer.]]></phrase>
   <phrase title="see_all_online_users" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Voir tous les utilisateurs en ligne]]></phrase>
   <phrase title="see_all_visitors" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Voir tous les visiteurs]]></phrase>
   <phrase title="see_php_manual_date_format_information" addon_id="XenForo" version_id="1040470" version_string="1.4.4"><![CDATA[Pour voir les différentes options de mise en forme, veuillez consulter <a href="http://php.net/manual/en/function.date.php" target="_blank">le manuel PHP</a> consacré à la fonction date().]]></phrase>
@@ -3890,6 +3891,7 @@ Si vous avez des doutes sur comment régler ce paramètre, mettez sur 'Révoquer
   <phrase title="spam" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Spam]]></phrase>
   <phrase title="spam_cleaner" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[liquidateur de spam]]></phrase>
   <phrase title="spam_cleaner_applied_subject" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Mesures Antispam de {board_title}]]></phrase>
+  <phrase title="spam_cleaner_ban_reason" addon_id="XenForo" version_id="1040570" version_string="1.4.5"><![CDATA[Spam. Veuillez contacter l'administrateur si vous estimez cela être une erreur.]]></phrase>
   <phrase title="spam_cleaner_controls" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Contrôles du liquidateur de spam]]></phrase>
   <phrase title="spam_cleaner_ip_address_check" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Vérificateur d'IP du liquidateur]]></phrase>
   <phrase title="spam_cleaner_log" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Journal du liquidateur de spam]]></phrase>
